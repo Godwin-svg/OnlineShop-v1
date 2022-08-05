@@ -272,7 +272,7 @@ body {
   display: flex;
 }
 .history__img--container {
-  background-image: url(./../images/pexels-zhanzat-mamytova-1827130.jpg);
+  background-image: url(../images/pexels-zhanzat-mamytova-1827130.jpg);
   width: 40%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -297,6 +297,10 @@ body {
   font-size: 1.5rem;
   line-height: 1.4;
   margin-bottom: 2rem;
+}
+
+.his {
+  color: aqua;
 }
 
 .reviews {
